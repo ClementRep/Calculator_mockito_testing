@@ -20,6 +20,7 @@ The project also uses **JUnit 4** for unit testing and **Mockito** for mocking d
 Follow these steps to set up the project locally and run the tests.
 
 ## Test shots
+![tests](https://github.com/user-attachments/assets/e3a92a1e-9c45-4dfd-ae0e-6aa53a6d39b6)
 
 
 ### 1. Clone the Repository
