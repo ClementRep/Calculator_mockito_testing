@@ -1,4 +1,5 @@
-# ClementRep Calculator with Mockito Testing
+# ClementRep Calculator with Junit
+
 
 This is a simple calculator project that demonstrates how to perform **Test-Driven Development (TDD)** using **JUnit** and **Mockito**. The calculator can perform basic arithmetic operations like addition, subtraction, and multiplication.
 
@@ -9,6 +10,7 @@ The project also uses **JUnit 4** for unit testing and **Mockito** for mocking d
 - **Addition**: Supports adding two or more integers.
 - **Subtraction**: Supports subtracting two or more integers.
 - **Multiplication**: Supports multiplying two or more integers.
+- **division**: Supports division two or more integers.
 
 ## Prerequisites
 
